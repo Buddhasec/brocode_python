@@ -37,7 +37,7 @@ print(f"Are you a student?: {is_student}.")
 
 #            A common use for booleans is within an if/else statement,
 #            rather than just printing them directly.
-#            The 'if' blockkis executed if the value is True,
+#            The 'if' block kis executed if the value is True,
 #            the 'else' block if it is False.
 
 #            Boolean-example in an if/else statement:
