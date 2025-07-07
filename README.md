@@ -5,8 +5,8 @@
 - Code is written with inline comments to support learning.
 
 2. **Review & Refactor Phase** (planned)
-- Once the tuorial is completed, I will revisit every file and commit.
-- I will improve variable names, structure, comments, and consitency.
+- Once the tutorial is completed, I will revisit every file and commit.
+- I will improve variable names, structure, comments, and consistency.
 - Some programs may be extended (e.g., adding input validation, taxes, discounts).
 
 **Goal**
