@@ -7,7 +7,7 @@
 2. **Review & Refactor Phase** (planned)
 - Once the tuorial is completed, I will revisit every file and commit.
 - I will improve variable names, structure, comments, and consitency.
-- Some programs my be extended (e.g., adding input validation, taxes, discounts).
+- Some programs may be extended (e.g., adding input validation, taxes, discounts).
 
 **Goal**
 : Build a clean, well-documented beginner repository that reflects both learning and progress.
