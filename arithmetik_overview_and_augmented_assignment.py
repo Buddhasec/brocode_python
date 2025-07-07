@@ -14,17 +14,17 @@ friends += 1
 # Subtraction (minus)
 friends -= 1
 
-# Multiplication (times)
+# Multiplication (repeating additon)
 friends *= 1
 
-# Divison (splitting into equal parts)
+# Division (splitting into equal parts)
 friends /= 1
 
 # Exponentiation (raising to a power)
 
 friends **= 1
 
-# since the code runs top to bottom,
+# Since the code runs from top to bottom,
 # each operation is applied one after another,
 # and the final result is stored in the variable.
 
