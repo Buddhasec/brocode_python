@@ -7,7 +7,7 @@ adjective1 = input("Please enter an adjective (description): ")
 verb1 = input("Please enter a verb (action): ")
 noun2 = input("Please enter another noun (person, place, thing): ")
 number1 = int(input("Please enter a number (1-9): "))
-adjective2 = input("Please enter a different adjective :(description) ")
+adjective2 = input("Please enter a different adjective (description): ")
 adjective3 = input("Please enter one more adjective (description): ")
 
 # The second block prints the story using f-strings.
