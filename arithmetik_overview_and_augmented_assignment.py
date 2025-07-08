@@ -1,7 +1,7 @@
 # Here we set a variable of friends to the value 0.
 friends = 0
 
-# Increas the value of 'friends' by 1 (long version).
+# Increase the value of 'friends' by 1 (long version).
 # Also known as normal assignment with addition.
 friends = friends + 1
 
@@ -14,19 +14,17 @@ friends += 1
 # Subtraction (minus).
 friends -= 1
 
-# Multiplication (repeating additon).
+# Multiplication (repeating addition).
 friends *= 1
 
 # Division (splitting into equal parts).
 friends /= 1
 
 # Exponentiation (raising to a power).
-
 friends **= 1
 
-# Remainder (gives out the remainder of a division).
-# It is commonly used to figure out if a number is even if you set it to (2).
-
+# Modulo (remainder of a division).
+# Commonly used to check if a number is even (e.g. value % 2 == 0).
 friends %= 1
 
 # Since the code runs from top to bottom,
