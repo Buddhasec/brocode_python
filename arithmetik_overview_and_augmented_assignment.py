@@ -24,6 +24,10 @@ friends /= 1
 
 friends **= 1
 
+# Remainder (gives out the remainder of a division)
+
+friends %= 1
+
 # Since the code runs from top to bottom,
 # each operation is applied one after another,
 # and the final result is stored in the variable.
