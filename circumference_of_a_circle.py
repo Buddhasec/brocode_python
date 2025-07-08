@@ -6,9 +6,7 @@ radius = float(input("Enter the radius (can be a whole number or decimal): "))
 
 # Calculate the circumference using the formula: 2 * pi * radius.
 # math.pi provides the value of pi.
-# The typecast of round(, 2) rounds to 2 decimal places in the variable to
-# save it for further calculations.
-circumference = round(2 * math.pi * radius, 2)
+circumference = 2 * math.pi * radius
 
 # Print the result using an f-string, rounded to 2 decimal places.
-print(f"The circumference is: {circumference}.")
+print(f"The circumference is: {circumference:.2f}.")
