@@ -1,4 +1,4 @@
-# Here we set a variable of friends to 0
+# Here we set a variable of friends to the value 0.
 friends = 0
 
 # Increas the value of 'friends' by 1 (long version).
@@ -11,16 +11,16 @@ friends += 1
 
 # This works for other operations as well:
 
-# Subtraction (minus)
+# Subtraction (minus).
 friends -= 1
 
-# Multiplication (repeating additon)
+# Multiplication (repeating additon).
 friends *= 1
 
-# Division (splitting into equal parts)
+# Division (splitting into equal parts).
 friends /= 1
 
-# Exponentiation (raising to a power)
+# Exponentiation (raising to a power).
 
 friends **= 1
 
