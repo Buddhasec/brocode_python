@@ -24,7 +24,8 @@ friends /= 1
 
 friends **= 1
 
-# Remainder (gives out the remainder of a division)
+# Remainder (gives out the remainder of a division).
+# It is commonly used to figure out if a number is even if you set it to (2).
 
 friends %= 1
 
