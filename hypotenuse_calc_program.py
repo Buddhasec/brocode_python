@@ -11,4 +11,4 @@ length2 = float(input("Please enter the length of side B: "))
 length3 = math.sqrt(pow(length1, 2) + pow(length2, 2))
 
 # Print the result, optionally rounded to 2 decimal places.
-print(f"The length of side c (the hypotenuse) is: {length3:.2f}")
+print(f"The length of side C (the hypotenuse) is: {length3:.2f}")
