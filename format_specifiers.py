@@ -48,26 +48,26 @@ print(f"{num2:+}")
 print(f"{num3:+}")
 
 # :(space) adds a leading space for positive numbers (instead of a +),
-# but still shows - for neagtives. Useful for aligning values by sign.
+# but still shows - for negatives. Useful for aligning values by sign.
 print(f"{num1: }")
 print(f"{num2: }")
 print(f"{num3: }")
 
-# :, adds a comma as a thousands seperator.
+# :, adds a comma as a thousands separator.
 print(f"{num11:,}")
 print(f"{num21:,}")
 print(f"{num31:,}")
 
-# :,.2f combines comma seperator and fixed-point formatting to 2 decimal places.
+# :,.2f combines comma separator and fixed-point formatting to 2 decimal places.
 print(f"{num11:,.2f}")
 print(f"{num21:,.2f}")
 print(f"{num31:,.2f}")
 
 example = 123456789
-# Example with all format options in the right order combined:
+# Example with all format options in the correct order combined:
 
 # {[variable]:[alignment][sign][#][0][width][,][.precision][type]}
 print(f"{example:^+020,.2f}")
 
-# All Smart Zebras Stay Properly Typed
-# Alignment-Sign-Zero/Width-Seperator(comma)-Precision-Type
+# Mnemonic: All Smart Zebras Stay Properly Typed
+# Alignment - Sign - Zero/Width - Seperator(comma) - Precision - Type
