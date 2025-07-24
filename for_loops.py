@@ -33,7 +33,7 @@ print("No unlucky numbers today.")
 
 # Example for basic Syntax of a for loop breaking an iteration:
 for x in range(1, 21):
-    # If the number is exactly 7, the iteration stops.
+    # If the number is exactly 8, the iteration stops.
     if x == 8:
         break
     else:
